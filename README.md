@@ -20,7 +20,9 @@ Assuming you have read/viewed these tutorial materials.Suppose we have a functio
 
 # Results
 By Looking at the output result
-- All AND gates in this 2-level ESPRESSO design have 4 inputs!!, From 6 inputs at each AND gate in the 2 level SOP to 4 therefor lower input wires, literals so lower hardware complexity, lower used Area, lower cost, higher design to market                    
+- All AND gates in this 2-level ESPRESSO design have 4 inputs!!, From 6 inputs at each AND gate in the 2 level SOP to 4 therefor lower input wires, literals so lower hardware complexity, lower used Area, lower cost, higher design to market
+#USAGE
+Write an input espresso file which determined with the specific TT in the correct syntex, and compile it in the 'COURSERA ESPFRESSO Cloud' (https://www.coursera.org/learn/vlsi-cad-logic/programming/D0IAC/espresso/submission)                    
 You can try this with anathor implementaion logic and tell how a real 2-level optimizer can do !
 
                                                                                                     
