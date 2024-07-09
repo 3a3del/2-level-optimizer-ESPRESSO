@@ -2,7 +2,7 @@
 # ESPRESSO OVERVIEW
 ESPRESSO is a tool originally developed at the University of California at Berkeley by Rick Rudell, Bob Brayton, and Alberto Sangiovanni-Vincentelli.
 You will find two helpful tutorials about ESPRESSO: a written document that explains the tool and its capabilities, and also a short video tutorial about to use ESPRESSO in (https://www.youtube.com/watch?v=dXuCLx4kwfY). Please go look at those before you proceed further in this.  
-Reduce-Expand-Irredundant cycle 
+Reduce-Expand-Irredundant cycle.
 • Reduce 
   - Rank cubes in a clever order, do PCN bit hacking to reduce them individually 
 • Expand 
